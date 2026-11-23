@@ -1,1 +1,2 @@
 Funcionalidad inicial
+Segunda mejora en feature
